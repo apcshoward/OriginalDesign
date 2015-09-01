@@ -34,7 +34,7 @@ void face()
 void hat() 
 { 
 	fill(225,0,0);
-	arc(200, 80, 80, 80, 0, PI+QUARTER_PI, CHORD);
+	arc(200, 80, 80, 80, 0, PI+QUARTER_PI, 2);
 	
  } 
 void tank() 
